@@ -1,0 +1,51 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  * {
+    margin: 0;
+  }
+  
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    min-height: 100%;
+
+    
+  }
+
+ .margg{
+  margin-top: 10%;
+ }
+
+ .canvas3{
+
+  background-image: url(./images/backgroung2.gif);
+  opacity: 50%;
+ }
+  
+ .canvas4{
+
+  background-image: url(./images/backky2.gif);
+  opacity: 50%;
+ }
+  
+ .foote{height: 5vh;
+  background-color: rgb(255, 255, 255)}
+
+  .foote2{
+    background-color: black;
+  
+ }
+
+.boxshow{
+  opacity: 0.8;
+  backdrop-filter: blur(20px);
+  border-radius: 30%;
+}
+
