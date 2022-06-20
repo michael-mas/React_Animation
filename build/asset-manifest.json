@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9f3396d.css",
+    "main.js": "/static/js/main.213cda64.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/map.jpg": "/static/media/map.5f0d981b22315fd48ca2.jpg",
+    "static/media/backky2.gif": "/static/media/backky2.6582b2f66ef283ceff8f.gif",
+    "static/media/romain.jpg": "/static/media/romain.28b0e3a45cd83289691e.jpg",
+    "static/media/backgroung2.gif": "/static/media/backgroung2.d248fff85bdc9964d5c2.gif",
+    "static/media/ambiance3.jpg": "/static/media/ambiance3.bebcbaee9c05b850cef3.jpg",
+    "static/media/paulette.jpg": "/static/media/paulette.12b8389e92ddd151c17b.jpg",
+    "static/media/loading.gif": "/static/media/loading.d944122cbaa2f441e1b7.gif",
+    "static/media/cedric-a.jpg": "/static/media/cedric-a.96f9b02152a5db0b4e48.jpg",
+    "static/media/pierreg.jpg": "/static/media/pierreg.1f91a01319990e60ca05.jpg",
+    "static/media/melissande.jpg": "/static/media/melissande.64039cf2781e00d58763.jpg",
+    "static/media/pierre.jpg": "/static/media/pierre.18441bea0434be36d8df.jpg",
+    "static/media/blur-layer.webp": "/static/media/blur-layer.14b88556569cc43d61cd.webp",
+    "static/media/logotest.png": "/static/media/logotest.15597d049cb9f8526d6d.png",
+    "static/media/yeti.svg": "/static/media/yeti.86f04d7c80212dcbd554ada5883ec8cd.svg",
+    "static/media/mountain3.svg": "/static/media/mountain3.47e30c92fde41f0fd33ecd3fedd641d3.svg",
+    "static/media/mountain1.svg": "/static/media/mountain1.1b4e48027472a314ec0819c12db6c1d5.svg",
+    "static/media/mountain2.svg": "/static/media/mountain2.9a5bf067b6e2ae84de7dc91275c0d868.svg",
+    "static/media/mountain5.svg": "/static/media/mountain5.5d9d098c21f2a3875640c981aa76670e.svg",
+    "static/media/mountain4.svg": "/static/media/mountain4.172e854ac941c22fc9163df52ec5c0f1.svg",
+    "index.html": "/index.html",
+    "static/media/hero-wave.svg": "/static/media/hero-wave.146c53ed7cc1f7137cea089fc1817124.svg",
+    "main.f9f3396d.css.map": "/static/css/main.f9f3396d.css.map",
+    "main.213cda64.js.map": "/static/js/main.213cda64.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f3396d.css",
+    "static/js/main.213cda64.js"
+  ]
+}
